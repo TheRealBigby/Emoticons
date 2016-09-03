@@ -1,0 +1,11 @@
+{
+    "name": "Skype Emotes",
+    "emotes": {
+        "(*)": {
+            "size": 20, 
+            "steps": 1,
+            "type": "animation",
+            "url": "https://i.gyazo.com/274566e5e7286273ac5180e3a19faf57.png"
+        },
+		
+}
